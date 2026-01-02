@@ -1,35 +1,36 @@
 # OOP_C++
-Covered complete OPP concepts in c++ 
-Introduction to paradigm
-Comparison from sequential & procedural paradigms
-Data Abstraction
-Encapsulation
-Introduction to Objects in real world
-Introduction to classes and objects
-Access Control
-Constructors & its types, Destructor
-Setters & Getters
-Member initialization list
-Constants, Constants with pointers, constant functions
-Static data and member functions
-Inline functions
-This pointer
-Array of objects
-Has-a relation
-Has-a relation
-Introduction of Inheritance
-Types of inheritance
-Data and code hiding
-Polymorphism in OOP
-Function overriding and overloading
-Friend function
-Operator overloading
-Multiple inheritance & its issues (Diamond Problem)
-Virtual inheritance
-Virtual functions
-Abstract Classes and virtual functions
-Abstract classes & Interfaces
-Introduction to filing
-Filing Continue
-Generics
-Generics and Templates
+
+- **Covered complete OPP concepts in c++ **
+- Introduction to paradigm
+- Comparison from sequential & procedural paradigms
+- Data Abstraction
+- Encapsulation
+- Introduction to Objects in real world
+- Introduction to classes and objects
+- Access Control
+- Constructors & its types, Destructor
+- Setters & Getters
+- Member initialization list
+- Constants, Constants with pointers, constant functions
+- Static data and member functions
+- Inline functions
+- This pointer
+- Array of objects
+- Has-a relation
+- Has-a relation
+- Introduction of Inheritance
+- Types of inheritance
+- Data and code hiding
+- Polymorphism in OOP
+- Function overriding and overloading
+- Friend function
+- Operator overloading
+- Multiple inheritance & its issues (Diamond Problem)
+- Virtual inheritance
+- Virtual functions
+- Abstract Classes and virtual functions
+- Abstract classes & Interfaces
+- Introduction to filing
+- Filing Continue
+- Generics
+- Generics and Templates

@@ -30,7 +30,6 @@
 - Virtual functions
 - Abstract Classes and virtual functions
 - Abstract classes & Interfaces
-- Introduction to filing
-- Filing Continue
+- Filing
 - Generics
 - Generics and Templates
